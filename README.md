@@ -15,3 +15,5 @@ Adding a scaled visualization is key to making the function work effectively as 
 The penultimate module of CS210 leaves the student at 'this stage' where one feels empowered to explore the realm of possibilities while treading lightly in persuit of upholding industry standards and a client(s)' specifications within ethical and legal limits at all facets of the software development lifecycle. A truely remarkable course from Southern New Hampshire University.
 
 I'm currently reviewing means of scaling or normalizing our bars, much like in this EG https://stackoverflow.com/questions/14098895/math-i-need-to-normalize-some-bar-graphs. The next module will offer options to use a different programing languages in conjunction with C++. I feel confident that I'd be able add functionality via using python libraries; but have seen some promissing c++ libraries that will allow me accelerate the development of 'Progress Reporter'.
+
+Qt seems like the most accessable solution to me at this time. A barchart like the following is very impressive -- https://doc.qt.io/qt-6/qtdatavis3d-qmlbars-example.html.
