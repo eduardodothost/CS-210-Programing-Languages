@@ -1,8 +1,13 @@
 # CS210-Programing-Languages
 
-After completing project three in CS210, we developed an inventory tracker I had named 'Progress Reporter' that would allow a user to parse through pairs of data values and discover the frequency of each key word found in the data set.
+On completing project three in CS210, we had ourselves an inventory tracker I had named 'Progress Reporter' that would allow a user to parse through pairs of data values and discover the frequency of each key word found in the data set.
 
-I had fashioned a bar chart function for data visualization using Windows console API. My function 'level' produces a bar chart with a different color depending on the threshold for a color change based on the frequency of the keyword. It will display well for the data set given; but needs to be able to account for data sets that would draw bars that are misproportional to the data set, sending them off screen. 
+![print list](https://github.com/eduardodothost/CS210-Programing-Languages/assets/78989515/a71329da-621c-48d6-9a64-055584fe8818)
+
+I had fashioned a bar chart function for data visualization using Windows console API. My function 'level' produces a bar chart with a different color depending on the threshold for a color change based on the frequency of the keyword. It will display well for the data set given; but needs to be able to account for data sets that would draw bars that are misproportional to the data set, sending them off screen.
+
+![print chart](https://github.com/eduardodothost/CS210-Programing-Languages/assets/78989515/55cbc82d-49cb-477a-ab74-74ba2109f0e9)
+
 
 I now have a chance to update the program in an upcoming assignment that has us produce a project for our portfolio on 'github' --  IE this project.
 
